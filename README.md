@@ -4,13 +4,13 @@ This app demonstrates a simple yet effective system for managing Shopify orders,
 
 ## Screenshots
 
-### Login Page
+### Orders Table
 
-![Orders Table Screenshot](screenshots/image.png)
+![Orders Table Screenshot](screenshots/table.png)
 
-### Dashboard
+### Postman
 
-![Postman View](screenshots/WhatsApp Image 2025-04-30 at 01.41.19.jpeg)
+![Postman View](screenshots/postman.jpeg)
 
 ## 🚀 Features
 
